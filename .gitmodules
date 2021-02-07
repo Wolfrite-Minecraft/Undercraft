@@ -1,0 +1,6 @@
+[submodule "Undercraft.wiki"]
+	path = Undercraft.wiki
+	url = https://github.com/Wolfrite-Minecraft/Undercraft.wiki.git
+[submodule "Wolfrite.Core"]
+	path = Wolfrite.Core
+	url = https://github.com/Wolfrite-Minecraft/Wolfrite.Core
